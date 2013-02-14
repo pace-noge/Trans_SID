@@ -1,0 +1,3 @@
+-- data agunan <> jaminan = 'Asuransi jiwa'
+
+-- SELECT rekredit.CIF_BI, rekredit.norek, datapokok.nama, rekredit.jaminan, datapokok.IDLOKASI, datapokok.alamat, rekredit.NILAIJAMINAN, rekredit.nilaijaminan1, rekredit.TGLMASUK FROM rekredit, datapokok WHERE datapokok.idnama = rekredit.idnama ORDER BY norek asc
